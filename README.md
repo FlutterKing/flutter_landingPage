@@ -1,6 +1,7 @@
-# playstore_ui
-
-A new Flutter project.
+# A simple LandingPage made with flutter.
+Link to watch full video
+https://youtu.be/iBNN-ForJqM
+1![](https://github.com/FlutterKing/flutter_landingPage/blob/master/assets/Simple%20LandingPage.png?raw=true)
 
 ## Getting Started
 
